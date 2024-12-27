@@ -1,0 +1,26 @@
+.siddbarContainer{
+    background-color: bisque;
+}
+
+.siddbarContainer .ps-menuitem-root .ps-menu-button:hover{
+    background-color: rgba(239, 155, 40, .3);
+}
+
+.imagePorfile{
+    width: 60%; 
+    border-radius: 50%;
+}
+
+.immageCollapse{
+    width: 90%;
+    border-radius: 50%;
+}
+.sidebarTitle{
+    font-size: .51em;
+    padding: 8px;
+    font-weight: 700;
+}
+.sidebarDesc{
+    font-size: .61em;
+}
+
